@@ -3,6 +3,7 @@
 
 A collection of paper about self-evaluation, self-correction, and hallucination mitigation of large language models. 
 
+-------------------------------------
 
 - On the Calibration of Large Language Models and Alignment
 [Paper](https://arxiv.org/pdf/2311.13240.pdf)
