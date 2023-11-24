@@ -1,5 +1,5 @@
 # llm-selfeval-paperlist
-2023-11-25: Updated some paper. 
+2023-11-25: Updated some papers. 
 
 A collection of paper about self-evaluation, self-correction, and hallucination mitigation of large language models. 
 
