@@ -1,9 +1,23 @@
 # llm-selfeval-paperlist
-2023-11-25: Updated some papers. 
+2023-11-27: Updated some papers. 
 
 A collection of paper about self-evaluation, self-correction, and hallucination mitigation of large language models. 
 
 -------------------------------------
+- SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models
+[Paper](https://arxiv.org/abs/2303.08896)
+
+- Answering Questions by Meta-Reasoning over Multiple Chains of Thought
+[Paper](https://arxiv.org/pdf/2304.13007)
+
+- CRYSTAL: Introspective Reasoners Reinforced with Self-Feedback
+[Paper](https://arxiv.org/pdf/2310.04921)
+
+- MoT: Memory-of-Thought Enables ChatGPT to Self-Improve
+[Paper](https://arxiv.org/pdf/2305.05181)
+
+- A Zero-Shot Language Agent for Computer Control with Structured Reflection
+[Paper](https://huggingface.co/papers/2310.08740)
 
 - On the Calibration of Large Language Models and Alignment
 [Paper](https://arxiv.org/pdf/2311.13240.pdf)
