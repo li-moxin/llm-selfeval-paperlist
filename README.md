@@ -4,6 +4,10 @@
 A collection of paper about self-evaluation, self-correction, and hallucination mitigation of large language models. 
 
 -------------------------------------
+
+- Get an A in Math: Progressive Rectification Prompting
+[Paper](https://arxiv.org/pdf/2312.06867.pdf)
+
 - SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models
 [Paper](https://arxiv.org/abs/2303.08896)
 
