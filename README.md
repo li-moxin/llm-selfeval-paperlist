@@ -5,6 +5,9 @@ A collection of paper about self-evaluation, self-correction, and hallucination 
 
 -------------------------------------
 
+- Self-Evaluation Improves Selective Generation in Large Language Models
+[Paper](https://arxiv.org/pdf/2312.09300.pdf)
+
 - Get an A in Math: Progressive Rectification Prompting
 [Paper](https://arxiv.org/pdf/2312.06867.pdf)
 
