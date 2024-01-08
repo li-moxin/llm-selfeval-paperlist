@@ -5,6 +5,9 @@ A collection of paper about self-evaluation, self-correction, and hallucination 
 
 -------------------------------------
 
+- Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives
+[Paper](https://arxiv.org/abs/2401.02009)
+
 - Self-Evaluation Improves Selective Generation in Large Language Models
 [Paper](https://arxiv.org/pdf/2312.09300.pdf)
 
