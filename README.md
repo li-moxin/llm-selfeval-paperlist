@@ -5,6 +5,9 @@ A collection of paper about self-evaluation, self-correction, and hallucination 
 
 -------------------------------------
 
+- Translate-and-Revise: Boosting Large Language Models for Constrained Translation
+[Paper](https://aclanthology.org/2024.ccl-1.82/)
+
 - Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives
 [Paper](https://arxiv.org/abs/2401.02009)
 
